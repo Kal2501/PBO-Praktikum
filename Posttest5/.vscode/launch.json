@@ -9,6 +9,13 @@
       "name": "App",
       "request": "launch",
       "mainClass": "App",
+      "projectName": "Posttest5_6fbd61e6"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
       "projectName": "Posttest4 - Copy_fb853243"
     },
     {
